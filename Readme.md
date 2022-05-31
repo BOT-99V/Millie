@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://instagram.com/neer_j_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918113921898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/919072501166"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
   
@@ -23,7 +23,7 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
+- OWNER NUMBER         [`CLICK HERE`](https://github.com/BOT-99V/Millie/blob/main/config.js#L2)
 - SESSION           [`Click Here`](https://github.com/BOT-99V/Millie/blob/main/session.data.json#L1)
 
 <div align="left">
